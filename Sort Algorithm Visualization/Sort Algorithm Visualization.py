@@ -1,10 +1,13 @@
+# PLEASE READ THE README FILE TO UNDERSTAND HOW TO USE THIS PROGRAM.
+
+
 import pygame as pg
 import time
 import threading
 
 running = True;
 
-################################################################
+################################################################ EDIT THESE SETTINGS TO HAVE FUN! 
 
 #pygame config
 pg.init()
@@ -105,8 +108,6 @@ def sort_array():
                 
 if __name__ == '__main__':
     pygame_get_details()
-    
-    #init()
 
     application_initialize()
     threads = []
@@ -120,7 +121,7 @@ if __name__ == '__main__':
 
         draw_bars()
 
-        application_catch_events()  
+        application_catch_events()
                 
         clock.tick(frame_rate)
         pg.display.flip()
