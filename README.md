@@ -3,7 +3,8 @@ Sort algorithm bar visualizer built in python
 
 # What is this program about?
 -This program is made in python.<br>
--This program is a bar visualizer for sorting algorithms.
+-This program is a bar visualizer for sorting algorithms.<br>
+![image](https://user-images.githubusercontent.com/71706645/159923665-2c2a678e-1311-4413-9ff0-7b59f6aeb87c.png)
 
 # Usage:
 -Just plug in the sort algorithm in the sort function.<br>
@@ -18,4 +19,5 @@ Sort algorithm bar visualizer built in python
 
 # How to run this program?
 -Install python.<br>
+-Install dependencies using pip.<br>
 -Run the python file.
